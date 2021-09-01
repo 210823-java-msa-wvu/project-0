@@ -11,6 +11,7 @@ Your application must have:
 3. Account creation
 4. At least 3 things that user type 1 can do (user type 2 can also do these if it makes sense for your application). These functionalities must in some way change the state of the application. 
 5. At least 1 thing user type 2 can do that user type 1 cannot. 
+6. At least 1 custom exception
 
 ## Example User Stories: Banking Application 
 Both users (Customer and Employee) can:  
@@ -26,13 +27,15 @@ Employee can:
 1. Approve/reject a loan
 
 ## Bonus Features
+- Unit Testing
+- TDD
 
 ## Tech Stack
 - Java 8
 - Apache Maven
-- PostgreSQL deployed on AWS RDS
+- PostgreSQL
+- AWS RDS
 - JUnit
-
 
 ## Init Instructions
 - Create a new repository within this organization (naming convention: `firstName-lastName-p0`)
