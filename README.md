@@ -12,6 +12,7 @@ Your application must have:
 4. At least 3 things that user type 1 can do (user type 2 can also do these if it makes sense for your application). These functionalities must in some way change the state of the application. 
 5. At least 1 thing user type 2 can do that user type 1 cannot. 
 6. At least 1 custom exception
+7. User input validation
 
 ## Example User Stories: Banking Application 
 Both users (Customer and Employee) can:  
