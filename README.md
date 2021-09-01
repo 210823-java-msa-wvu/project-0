@@ -1,12 +1,13 @@
 # Project 0
 For Project 0, you will be building a console-based application that will allow users to have certain functionality. The state of the application will be persisted in an RDS.  
-You will be required to conduct a 5 minute presentation.demo. This presentation will be a significant portion of the assessment.  
+You will be required to conduct a 5 minute presentation/demo. This presentation will be a significant portion of the assessment.  
 
 Presentation date: September 15th, 2021
 
 ## Minimum Features (MVP)
+Your application must have: 
 1. Two types of users (i.e. bank teller and customer or shop owner and customer)
-2. Must have basic login functionality
+2. Basic login functionality
 3. Account creation
 4. At least 3 things that user type 1 can do (user type 2 can also do these if it makes sense for your application). These functionalities must in some way change the state of the application. 
 5. At least 1 thing user type 2 can do that user type 1 cannot. 
