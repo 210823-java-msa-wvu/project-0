@@ -9,7 +9,7 @@ Your application must have:
 1. Two types of users (i.e. bank teller and customer or shop owner and customer)
 2. Basic login functionality
 3. Account creation
-4. At least 3 things that user type 1 can do (user type 2 can also do these if it makes sense for your application). These functionalities must in some way change the state of the application. 
+4. At least 3 things (on top of creating an account and logging in) that user type 1 can do (user type 2 can also do these if it makes sense for your application). These functionalities must in some way change the state of the application. 
 5. At least 1 thing user type 2 can do that user type 1 cannot. 
 6. At least 1 custom exception
 7. User input validation
